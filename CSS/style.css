@@ -117,6 +117,10 @@ main {
   padding-bottom: 30px;
   padding-top: 24px;
 }
+.fact-card-container .card{
+  border-radius: 8px;
+border: 1px solid #FF900E;
+text-align: center;
 
 /* responsive media quearies */
 /* Moblie Devices */
@@ -134,6 +138,8 @@ main {
   .features-content {
     padding-right: 23px;
     padding-left: 23px;
+
+}
 
 
 /* Tablet or Medium Devices responsive quearies */
